@@ -1,0 +1,66 @@
+[
+  {
+    "path": "docs/original/README.md",
+    "sha256": "047199354f2e0aaa69dedfe88ab3256367d2adb7a774d855634e75c1077aba8a"
+  },
+  {
+    "path": "code/augment_censoring.py",
+    "sha256": "0a328dfd63adac25910696202607a0d6c3a5965056f8012a14a9e35bd8267eae"
+  },
+  {
+    "path": "code/bmc_calibration_sensitivity.py",
+    "sha256": "d6060a5286c78a2e82a85a04bfaa710fe93ff62dac7be2b2c366382627b5cd94"
+  },
+  {
+    "path": "code/build_multimedia_appendix.py",
+    "sha256": "b1af0123ffc37c9a51245205e77410bcdc9a3ab17fa65d0d711047fcb2b787ec"
+  },
+  {
+    "path": "code/evaluate_frozen_models.py",
+    "sha256": "ee9bbab6153c6aec8dcabafd14cfd3fd56cee4990fd58a10169dc2b86b89e566"
+  },
+  {
+    "path": "code/extract_feasibility.py",
+    "sha256": "bdfaa60cc572afa38c27ff2670f91f6154dce03c528bf1ebee0f308d351acf1f"
+  },
+  {
+    "path": "code/figure1_design.py",
+    "sha256": "aee8ec95835b23bb1169770abf0be376e5b0152f6027b75487a3854e7cc64dd6"
+  },
+  {
+    "path": "code/figures_results.py",
+    "sha256": "cf1aa1d5ea4be89261afd9ec2ee8c17d1396e0acb22ada706561588e62b8455c"
+  },
+  {
+    "path": "code/fit_frozen_models.py",
+    "sha256": "6054ca43c9bae07072f029c8b39b6702b81db5476ac94d0e130b452c73d36d2d"
+  },
+  {
+    "path": "code/model_and_evaluate.py",
+    "sha256": "9f540e6c8ae381f5aebb20e5e4c0ef76360c6da387e3ad485daa209ef09e74de"
+  },
+  {
+    "path": "code/observation_analysis.py",
+    "sha256": "a919a90c4f89caff045cb50b161216c5d7216a27847f2e5a7fa92d5389fb87c7"
+  },
+  {
+    "path": "code/prepare_bmc_figures.py",
+    "sha256": "13fbd77d3a0debdf202ae74a379f0ff9216221e22588aa0c62850cb34badaa56"
+  },
+  {
+    "path": "code/result_availability_sensitivity.py",
+    "sha256": "e45df327e55b3d09663fa010e43e62f33f980ce2d3e5e2d5d2508da967947683"
+  },
+  {
+    "path": "code/result_contrasts.py",
+    "sha256": "e7c54c3cd7ccceac3929b0cc2460fdfe7cad5086f84ec8f8aece24e65ccc9b04"
+  },
+  {
+    "path": "experiments/post_release_tuning_20260924/run_dev_only_sweep.py",
+    "sha256": "a802842b909b12542aaaf756923db45154367b28342c708ab17a918694cd2bf5"
+  },
+  {
+    "path": "experiments/post_release_tuning_20260924/run_logistic_c_extension.py",
+    "sha256": "729e42541e2719e621595fc5e077a75460d24f3f53c5239e246b687a85980546"
+  }
+]
