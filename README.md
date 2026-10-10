@@ -2,7 +2,9 @@
 
 **Health Informatics · Research pipeline · Source-code release**
 
-This project provides the author's existing analysis implementation for six-hour icu laboratory prediction. Scientific source files are preserved from the local research product. This upload organizes code and documentation; it does not represent new experiments, model retraining or an independently verified reproduction.
+In intensive care, the next few hours can change the picture. This project asks what routinely collected clinical information can tell us about laboratory measurements six hours ahead, while keeping the timing of observations and the availability of results in view.
+
+The repository brings together the saved analysis code for MIMIC-IV and eICU, including extraction, model development, frozen-model evaluation and sensitivity analyses.
 
 ## Pipeline
 
